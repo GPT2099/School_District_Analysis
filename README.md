@@ -25,6 +25,8 @@ Additionally, this analysis will address the possibility of academic dishonesty 
   
   ![](./Resources/District_Summary_df.PNG)
   
+Removing the Thomas High School ninth grade scores has very little impact at the district level. Their scores have a minimal impact becuase they only represent roughly 1% of the total students.
+  
   
 
 
