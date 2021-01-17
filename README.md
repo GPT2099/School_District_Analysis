@@ -36,6 +36,8 @@ Removing the Thomas High School ninth grade scores has very little impact at the
   
   ![](./Resources/School_Summary_df.PNG)
   
+
+  
   
   
 
