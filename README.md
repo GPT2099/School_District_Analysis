@@ -13,6 +13,11 @@ This analysis will provide district executives key metrics of student performanc
 - The Scores By School Size
 - The Scores By School Type
 
-Additionally, this analysis will address the possibility of academic dishonesty at Thomas High School by their ninth graders. These scores will be omitted and we will describe how these changes affected the overall analysis. 
+Additionally, this analysis will address the possibility of academic dishonesty at Thomas High School by their ninth graders. Their scores will be omitted and we will describe how these changes affected the overall analysis. 
+
+## Results 
+* How is the district summary affected?
+  
+
 
 
