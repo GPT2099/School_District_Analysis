@@ -19,7 +19,7 @@ Additionally, this analysis will address the possibility of academic dishonesty 
 * How is the district summary affected?
   The original district summary here:
   
-  ![](./Resources/OG_District_Summary.png)
+  ![](./Resources/OG_District_Summary.PNG)
   
   
 
