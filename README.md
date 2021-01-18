@@ -36,6 +36,8 @@ Removing the Thomas High School ninth grade scores has very little impact at the
   
   ![](./Resources/School_Summary_df.PNG)
   
+As highlighted above, the % passing math at Thomas High School drops by a minimal 0.09% Likewise the passing reading % of the school drops by 0.29% when the ninth graders scores are omitted. This would suggest the reported ninth grade scores are aligned with the performance expectations of the rest of the grades of Thomas High School.
+  
 
   
 
