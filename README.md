@@ -86,6 +86,12 @@ There is a slight decrease in scores and passing percentage for medium sized sch
 
 ![](./Resources/Scores_By_School_Size.PNG)
 
+Akin to scores by school spending, the small decrease in scores and passing percentage by school size is negligible when industry standard formatting is applied. 
+
+* The original and revised scores by school size after formatting:
+
+![](./Resources/Formatted_Scores_By_School_Size.PNG)
+
 
  
 
