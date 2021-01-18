@@ -46,6 +46,16 @@ The Overall Passing % is hardly affected by replacing the suspect data. The perc
 
 * How does replacing the suspect data with NaN affect the math and reading scores by grade?
 
+Replacing the suspect date with NaN completely dismisses the Thomas High School ninth grade data for reading and math scores as highlighted below. The remaining schools and grades are unaffected. 
+
+* Average Math Score By Grade Level:
+
+![](./Resources/Average_Math_Score_Grade_Lvl.PNG)
+
+* Average Reading Score By Grade Level: 
+
+![](./Resources/Average_Reading_Score_Grade_Lvl.PNG)
+
 
 
 
