@@ -92,6 +92,18 @@ Akin to scores by school spending, the small decrease in scores and passing perc
 
 ![](./Resources/Formatted_Scores_By_School_Size.PNG)
 
+* How does replacing the suspect data with NaN affect scores by school type?
+
+As expected, there is a minimal decrease in scores and passing percentage for the "Charter" school type when the suspect data is replaced with Nan as highlighted below. 
+
+* The original scores by school type: 
+
+![](./Resources/OG_Scores_By_School_Type.PNG)
+
+* The revised scores by school type: 
+
+![](./Resources/Scores_By_School_Type.PNG)
+
 
  
 
