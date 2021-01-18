@@ -110,6 +110,18 @@ Similar to scores by school spending and size, when industry standard formatting
 
 ![](./Resources/Formatted_Scores_By_School_Type.PNG)
 
+## Summary 
+The analysis concludes that no major evidence can be found suggesting that the Thomas High School ninth graders participated in academic dishonesty. Their scores fall well within the expected range and align closely with the scores of the remaining grades, not only of Thomas High School but the district as a whole. In either case the completed analysis remains the same within 1% when the suspect data is removed or included. This analysis considers the suspect data negligible in terms of deciding future funding. 
+
+The analysis changed after removing the suspected data as follows:
+  1. The % passing math at Thomas High School drops by 0.09%
+  2. The % passing reading at Thomas High School drops by 0.29%
+  3. The % overall passing at Thomas High School drops from 90.948012 to 90.630324, a decrease of 0.32%
+  4. The "Charter" school type % overall passing dropped 0.04%
+
+
+
+
 
  
 
