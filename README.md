@@ -104,7 +104,7 @@ As expected, there is a minimal decrease in scores and passing percentage for th
 
 ![](./Resources/Scores_By_School_Type.PNG)
 
-Similiar to scores by school spending and size, when industry standard formatting is applied to the school type scores the decrease becomes negligible. 
+Similar to scores by school spending and size, when industry standard formatting is applied to the school type scores the decrease becomes negligible. 
 
 * The original and revised scores by school type after formatting:
 
