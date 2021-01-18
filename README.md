@@ -25,7 +25,7 @@ Additionally, this analysis will address the possibility of academic dishonesty 
   
   ![](./Resources/District_Summary_df.PNG)
   
-Removing the Thomas High School ninth grade scores has very little impact at the district level. Their scores have a minimal impact becuase they only represent roughly 1% of the total students.
+Removing the Thomas High School ninth grade scores has very little impact at the district level. Their scores have a minimal impact because they only represent roughly 1% of the total students.
 
 * How is the school summary affected?
   The original school summary here:
@@ -39,7 +39,16 @@ Removing the Thomas High School ninth grade scores has very little impact at the
 As highlighted above, the % passing math at Thomas High School drops by a minimal 0.09% Likewise the passing reading % of the school drops by 0.29% when the ninth graders scores are omitted. This would suggest the reported ninth grade scores are aligned with the performance expectations of the rest of the grades of Thomas High School.
 
 * How does replacing the suspect data with NaN affect Thomas HS performance relative to other schools?
+
 The Overall Passing % is hardly affected by replacing the suspect data. The percentage changes from 90.948012 to 90.630324, a minimal decrease of 0.32%. As highlighted below, Thomas High School remains the second highest performing school based on overall passing percentage. 
+
+![](./Resources/Thomas_High_School_Highlighted.PNG)
+
+* How does replacing the suspect data with NaN affect the math and reading scores by grade?
+
+
+
+
 
 
 
