@@ -58,7 +58,7 @@ Replacing the suspect date with NaN completely dismisses the Thomas High School 
 
 * How does replacing the suspect data with NaN affect scores by school spending?
 
-As highlighted below, replacing the suspect data with NaN does minimally decrease the % passing for math, reading, and overall. 
+As highlighted below, replacing the suspect data with NaN does minimally decrease the % passing for math, reading, and overall for the spending range (Per student) of $630-644. 
 
 * The original scores by school spending:
 
@@ -67,6 +67,14 @@ As highlighted below, replacing the suspect data with NaN does minimally decreas
 * The Revised scores by school spending:
 
 ![](./Resources/Scores_By_School_Spending_Per_Student.PNG)
+
+The decrease is so small that when industry standard formating is applied the change becomes negligible:
+
+* The original and revised scores by school spending:
+
+![](./Resources/Formatted_School_Spending_Per_Student.PNG)
+
+
 
 
 
