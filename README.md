@@ -68,12 +68,26 @@ As highlighted below, replacing the suspect data with NaN does minimally decreas
 
 ![](./Resources/Scores_By_School_Spending_Per_Student.PNG)
 
-The decrease is so small that when industry standard formating is applied the change becomes negligible:
+The decrease is so small that when industry standard formating is applied the change becomes negligible.
 
-* The original and revised scores by school spending:
+* The original and revised scores by school spending after formatting:
 
 ![](./Resources/Formatted_School_Spending_Per_Student.PNG)
 
+* How does replacing the suspect data with NaN affect scores by school size?
+
+There is a slight decrease in scores and passing percentage for medium sized schools (1000-2000 students) when the suspect data is replaced with NaN as highlighted below.
+
+* The original scores by school size:
+
+![](./Resources/OG_Scores_By_School_Size.PNG)
+
+* The Revised scores by school size: 
+
+![](./Resources/Scores_By_School_Size.PNG)
+
+
+ 
 
 
 
