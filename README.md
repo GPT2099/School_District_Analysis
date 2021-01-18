@@ -56,6 +56,18 @@ Replacing the suspect date with NaN completely dismisses the Thomas High School 
 
 ![](./Resources/Average_Reading_Score_Grade_Lvl.PNG)
 
+* How does replacing the suspect data with NaN affect scores by school spending?
+
+As highlighted below, replacing the suspect data with NaN does minimally decrease the % passing for math, reading, and overall. 
+
+* The original scores by school spending:
+
+![](./Resources/OG_Scores_By_School_Spending_Per_Student.PNG)
+
+* The Revised scores by school spending:
+
+![](./Resources/Scores_By_School_Spending_Per_Student.PNG)
+
 
 
 
