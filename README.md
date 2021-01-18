@@ -44,6 +44,12 @@ The Overall Passing % is hardly affected by replacing the suspect data. The perc
 
 ![](./Resources/Thomas_High_School_Highlighted.PNG)
 
+* How does replacing the suspect data with NaN affect the math and reading scores by grade?
+
+
+
+
+
 
 
   
